@@ -28,11 +28,11 @@ public class Rumus {
     return hasil;
     }
     
-    public persegi(){
+    public int hasil(){
     this.sisi = 0;
     this.panjang = 0;
     this.lebar = 0;
-    
+     return hasil;
     
     }
     
